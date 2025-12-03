@@ -1,4 +1,5 @@
-# 💫 About Me:
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=qwqeqweqwe&label=Profile%20views&color=0e75b6&style=flat" alt="qwqeqweqwe" /> </p>
+## 💫 About Me:
 Soy Ingeniero Informático titulado en 2007, con más de 16 años de experiencia en el sector salud, donde he desempeñado roles que mezclan desarrollo, soporte, infraestructura y gestión tecnológica. Me apasiona crear soluciones desde cero que realmente faciliten la vida de las personas, especialmente en contextos donde la tecnología tiene impacto directo: salud, educación y optimización de procesos.<br><br>A lo largo de mi carrera he desarrollado aplicaciones internas, implementado sistemas clínicos, integrado plataformas como Nubox  y he sido responsable del funcionamiento completo del ecosistema informático de la institución donde trabajo. Esto me ha dado una mirada amplia: desde entender la necesidad del usuario, hasta diseñar, implementar y mantener soluciones estables.<br><br>Me formé recientemente como Full Stack Java gracias a un bootcamp que reforzó mis habilidades en Spring, HTML5, CSS3, Bootstrap y JavaScript. Me adapto rápido, aprendo lo que sea necesario y disfruto enfrentarme a desafíos reales. Además, he trabajado en proyectos personales como un libro digital orientado a educación, porque creo que la tecnología también puede enseñar, acercar y abrir oportunidades.
 
 
