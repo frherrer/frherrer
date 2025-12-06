@@ -12,6 +12,7 @@ Soy Ingeniero Informático titulado en 2007, con más de 16 años de experiencia
 
 👉 **[🌐 Render - Java](https://bootcamp-javaspring-miniagenda.onrender.com/)**
 
+👉 Video Mini Agenda - [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]([https://www.youtube.com/@franciscojavierherrerarome409](https://youtu.be/EGKwzOhcGKo)) 
 
 
 ## 🌐 Socials:
